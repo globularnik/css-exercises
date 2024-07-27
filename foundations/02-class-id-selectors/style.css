@@ -7,3 +7,13 @@
     color: blue;
     font-size: 36px;
 }
+
+.odd_number.number_three {
+    font-size: 24px;
+}
+
+#number_four {
+    background-color: rgb(56, 233, 56);
+    font-size: 24px;
+    font-weight: bold;
+}
