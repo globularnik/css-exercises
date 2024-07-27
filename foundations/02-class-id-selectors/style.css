@@ -1,0 +1,9 @@
+.odd_number {
+    background-color: rgb(240, 107, 156);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+#number_two {
+    color: blue;
+    font-size: 36px;
+}
